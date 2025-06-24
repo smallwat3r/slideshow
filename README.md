@@ -1,6 +1,8 @@
 # Slideshow Creator
 
-A minimal tool to create video slideshows by chaining images and videos using [moviepy](https://github.com/Zulko/moviepy).
+Was on the look for a dead simple tool to create a slideshow of images and videos for a wedding.
+
+I could not find one that suited my needs (simple, free, automatic), so I decided to create my own using [moviepy](https://github.com/Zulko/moviepy).
 
 ## Features
 

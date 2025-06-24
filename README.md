@@ -4,9 +4,9 @@ A minimal tool to create video slideshows by chaining images and videos using [m
 
 ## Features
 
-- Automatically generates a video slideshow from files in the media/ folder
+- Automatically generates a video slideshow from files in the medias/ folder
 - Supports both images and videos
-- Randomizes media order
+- Randomizes medias order
 - Smooth fade transitions
 
 ## Default settings
@@ -27,7 +27,7 @@ Install `moviepy` via pip:
 
 ## Usage
 
-1. Place your images and videos in the `media/` directory.
+1. Place your images and videos in the `medias/` directory.
     > note that the order of the media will be randomised.
 
 2. Run the script:

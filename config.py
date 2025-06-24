@@ -1,5 +1,5 @@
 class Config:
-    media_folder = "media"
+    media_folder = "medias"
     output_video = "slideshow.mp4"
     image_duration = 3
     fade_duration = 0.5

@@ -1,5 +1,5 @@
 # some images can be re-oriented after processing, in order to
-# avoid this, it looks like running this command in the media
+# avoid this, it looks like running this command in the medias
 # folder before running this helps:
 #     mogrify -auto-orient *.jpg
 

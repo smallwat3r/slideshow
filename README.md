@@ -25,9 +25,11 @@ You can customize these settings in the `config.py` file.
 
 ## Installation
 
-Install `moviepy` via pip:
+Create a virtual env and install `moviepy` via pip:
 
-    pip install moviepy
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install moviepy==2.2.1
 
 ## Usage
 
@@ -37,8 +39,8 @@ Install `moviepy` via pip:
 
     > you might want to run `mogrify -auto-orient *.jpg` in the medias/ folder, from experience it helps ensure no pictures get rotated after processing
 
-2. Run the script:
+2. From the venv, run the script:
 
-        python3 main.py
+        python main.py
 
 3. Your generated slideshow will be saved as slideshow.mp4.

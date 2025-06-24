@@ -28,7 +28,9 @@ Install `moviepy` via pip:
 ## Usage
 
 1. Place your images and videos in the `medias/` directory.
+
     > note that the order of the media will be randomised
+
     > you might want to run `mogrify -auto-orient *.jpg` in the medias/ folder, from experience it helps ensure no pictures get rotated after processing
 
 2. Run the script:

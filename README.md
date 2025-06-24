@@ -1,10 +1,10 @@
 # Slideshow Creator
 
-Was on the look for a dead simple tool to create a slideshow of images and videos for a wedding.
+I was looking for a super simple tool to create a slideshow of images and videos for a wedding.
 
-I could not find one that suited my needs (simple, free, automatic), so I decided to create my own using [moviepy](https://github.com/Zulko/moviepy).
+I couldn’t find one that was simple, free, and automated, so I built my own using [moviepy](https://github.com/Zulko/moviepy).
 
-Hope it can help someone else!
+Hope it helps someone else too!
 
 ## Features
 
@@ -39,6 +39,6 @@ Install `moviepy` via pip:
 
 2. Run the script:
 
-        python3 main.py 
+        python3 main.py
 
 3. Your generated slideshow will be saved as slideshow.mp4.

@@ -32,6 +32,6 @@ Install `moviepy` via pip:
 
 2. Run the script:
 
-    python3 main.py
+        python3 main.py 
 
 3. Your generated slideshow will be saved as slideshow.mp4.

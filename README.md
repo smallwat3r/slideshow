@@ -4,6 +4,8 @@ Was on the look for a dead simple tool to create a slideshow of images and video
 
 I could not find one that suited my needs (simple, free, automatic), so I decided to create my own using [moviepy](https://github.com/Zulko/moviepy).
 
+Hope it can help someone else!
+
 ## Features
 
 - Automatically generates a video slideshow from files in the medias/ folder

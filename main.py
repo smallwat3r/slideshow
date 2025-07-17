@@ -50,7 +50,7 @@ def main():
             ]
         )
         clips.append(clip)
-        logger.info("Processed file %s on %s", i, total_files)
+        logger.info("Processed file %d on %d", i, total_files)
 
     if clips:
         final_video = concatenate_videoclips(clips, method="compose")
